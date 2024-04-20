@@ -7,7 +7,7 @@
 <br/>
 ## 🌱 about this GitHub 🌱
 💻 I am still learning and developing various skills, including programming. <br/>
-📖 All of the work and activities before 2024 were usually class projects.<br/>
+📖 All of the work and activities before 2024 were usually class projects that use ARM for microcontroller programming.<br/>
 👾 Now, I am focusing on developing my very own web application for a project along with my team.
 
 
